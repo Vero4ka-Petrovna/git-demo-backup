@@ -2,4 +2,4 @@ song song song
 long long long
 
 
-git gui&
+git gui& 1
