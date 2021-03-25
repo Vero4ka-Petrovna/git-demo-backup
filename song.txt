@@ -3,4 +3,5 @@ long long long
 
 
 git gui& 1
-but I don't ptay violin
+but I don't play violin
+It is not my type of instrument
